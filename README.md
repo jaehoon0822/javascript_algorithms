@@ -4,4 +4,6 @@
 
 > 책은 Packtpub 의 Learning JavaScript Data Structures and Algorithms - Third Edition 을 보며 공부한다.
 
-### [Fibonacci](./fibonacci)
+## Contents
+
+### [Fibonacci](./fibonacci) Fibonacci 를 구현해보도록 해보아요.
