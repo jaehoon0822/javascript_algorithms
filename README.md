@@ -4,6 +4,12 @@
 
 > 책은 Packtpub 의 Learning JavaScript Data Structures and Algorithms - Third Edition 을 보며 공부한다.
 
-## Contents
+--- 
+## Array
 
 ### [Fibonacci](./fibonacci) Fibonacci 를 구현해보도록 해보아요.
+
+### [InsertFirstPosition](./insertFirstPosition) InsertFirstPosition 을 구현해 보도록 해보아요
+
+### [InsertLastPosition](./insertLastPosition) InsertLastPosition 을 구현해 보도록 해보아요
+---
