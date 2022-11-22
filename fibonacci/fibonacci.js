@@ -23,7 +23,7 @@ fibonacci[1] = 1;
 
 // 앞의 2개의 숫자를 더한값을 다음의 이어지는 배열에 할당한다.
 // 무한적으로 값을 더할 수 없으니 20까지의 값만 구한다.
-for (let i = 0; i < 20; i += 1 ) {
+for (let i = 2; i < 20; i += 1 ) {
     fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
 }
 
