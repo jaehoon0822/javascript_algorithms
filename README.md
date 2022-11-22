@@ -7,7 +7,7 @@
 --- 
 ## Array
 
-- ### [x] [Fibonacci](./fibonacci) 를 구현해보도록 해보아요.
-- ### [x] [InsertFirstPosition](./insertFirstPosition) 을 구현해 보도록 해보아요
-- ### [x] [ InsertLastPosition](./insertLastPosition) 을 구현해 보도록 해보아요
+- ### [x] [Fibonacci](./array/fibonacci) 를 구현해보도록 해보아요.
+- ### [x] [InsertFirstPosition](./array/insertFirstPosition) 을 구현해 보도록 해보아요
+- ### [x] [ InsertLastPosition](./array/insertLastPosition) 을 구현해 보도록 해보아요
 ---
